@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlists>
+  <library>
+    <song type="y" id="0.1604602845551818i">
+      <name>Goodnight, Fair Lady</name>
+      <artist>Coheed and Cambria</artist>
+      <album />
+      <url>E:/Music/Coheed%20and%20Cambria/The%20Afterman-%20Ascension/05%20Goodnight,%20Fair%20Lady.mp3</url>
+    </song>
+    <song type="y" id="0.9244929417022554i">
+      <name>Your Song</name>
+      <artist>Ellie Goulding</artist>
+      <album />
+      <url>E:/Music/Chillstep/Amazing%20Female%20Chillstep%20Vol.1/Your%20Song%20(Blackmill%20Dubstep%20Remix).mp3</url>
+    </song>
+    <song type="y" id="0.9734946612957286i">
+      <name>Boat</name>
+      <artist>Rameses</artist>
+      <album>Album Name</album>
+      <url>E:/Music/Chillstep/Amazing%20Female%20Chillstep%20Vol.1/Boat%20(Rameses%20B%20Remix).mp3</url>
+    </song>
+    <song type="y" id="0.9310584375042474i">
+      <name>Water Music</name>
+      <artist />
+      <album />
+      <url>http://www.youtube.com/watch?v=cnn3TVBDtcA</url>
+    </song>
+    <song type="y" id="0.4638243813718784i">
+      <name>White and Nerdy</name>
+      <artist>Weird Al</artist>
+      <album />
+      <url>C:/Users/Kaptain/Music/White%20And%20Nerdy.mp3</url>
+    </song>
+  </library>
+  <playlist id="New Playlist">
+    <entry>0.9734946612957286i</entry>
+  </playlist>
+  <playlist id="Playlist Two">
+    <entry>0.9734946612957286i</entry>
+  </playlist>
+</playlists>
